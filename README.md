@@ -2,7 +2,7 @@
 Multi-component Aggregation Filtering for Infrared and Visible Image Fusion
 <img width="1572" height="628" alt="image" src="https://github.com/user-attachments/assets/95067927-b2dd-4dd3-9ae6-736070e31e82" />  
   
-## This method efficiently fuses infrared and visible images while ensuring the effectiveness of the fusion results for downstream tasks. It features an extremely low parameter count and ease of deployment.   
+This method efficiently fuses infrared and visible images while ensuring the effectiveness of the fusion results for downstream tasks. It features an extremely low parameter count and ease of deployment.   
   
 The relevant code will be open-sourced soon.   
   
