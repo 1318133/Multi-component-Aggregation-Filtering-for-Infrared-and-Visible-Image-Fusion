@@ -1,3 +1,4 @@
 # Multi-component-Aggregation-Filtering-for-Infrared-and-Visible-Image-Fusion
 Multi-component Aggregation Filtering for Infrared and Visible Image Fusion
-<img width="1569" height="629" alt="image" src="https://github.com/user-attachments/assets/b00b2ad9-a126-4589-bfea-6eb9f1a85930" />
+<img width="1572" height="628" alt="image" src="https://github.com/user-attachments/assets/95067927-b2dd-4dd3-9ae6-736070e31e82" />
+
